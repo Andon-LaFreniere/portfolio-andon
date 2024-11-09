@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     year: "May - August, 2024",
     role: "Student Researcher",
     company: "Discovery Lab Global",
-    description: `-Developed and revised a deep learning artificial intelligence model using only NumPy and a pre-built Open AI Gym environment. Designated to the prestigious Pathfinder team to serve as an example for fellow researchers. Shortened training time for the model through application techniques in reward shaping and ReLu activation. Performed analysis on the efficiency of the model through statistical modeling with Matplotlib. Created technical documentation for the project that was over three hundred pages long.`,
+    description: `Developed and revised a deep learning artificial intelligence model using only NumPy and a pre-built Open AI Gym environment. Designated to the prestigious Pathfinder team to serve as an example for fellow researchers. Shortened training time for the model through application techniques in reward shaping and ReLu activation. Performed analysis on the efficiency of the model through statistical modeling with Matplotlib. Created technical documentation for the project that was over three hundred pages long.`,
     technologies: ["Python", "OpenAI Gym", "NumPy", "MatPlotLib"],
   },
   {
